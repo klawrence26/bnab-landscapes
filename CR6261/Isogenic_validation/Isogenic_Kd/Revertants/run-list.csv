@@ -1,0 +1,5 @@
+directory,row,shortname,mutant,antigen,replicate,prefix
+../../Raw_facs_data/20210205_p2,E,som14,a,H1,1,
+../../Raw_facs_data/20210205_p2,G,som14,a,H9,1,
+../../Raw_facs_data/20210212_p2,E,som14,a,H1,2,
+../../Raw_facs_data/20210212_p2,G,som14,a,H9,2,
