@@ -1,0 +1,5 @@
+1. Clean and parse reads with clean_YODA and yoda_parser.py (run_parser_yoda.sbatch)
+2. Convert nucleotides to binary genotypes and discard reads with errors (nuc_to_aa.sbatch)
+3. Filter for correct multiplexing indices (index_yoda.sbatch)
+4. Trim indices and remove reads with duplicate UMIs (trim_mb.sbatch)
+5. Create count files (get_counts.sbatch)
