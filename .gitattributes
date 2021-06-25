@@ -1,1 +1,4 @@
 CR9114/Raw_data/gate_events/9114g/export_Sorted_9114g_11* filter=lfs diff=lfs merge=lfs -text
+CR9114/Kd_meanbin/kd_processed/20210323_fluB_all.csv filter=lfs diff=lfs merge=lfs -text
+CR9114/Kd_meanbin/kd_processed/20210323_h1_all.csv filter=lfs diff=lfs merge=lfs -text
+CR9114/Kd_meanbin/kd_processed/20210323_h3_all.csv filter=lfs diff=lfs merge=lfs -text
