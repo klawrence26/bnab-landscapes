@@ -1,0 +1,13 @@
+directory,row,shortname,mutant,antigen,replicate,prefix
+../../Raw_facs_data/20210205_p1,A,som18,a,H1_run1,1,
+../../Raw_facs_data/20210205_p1,C,som18,a,H3_run1,1,
+../../Raw_facs_data/20210205_p1,E,gLgH,b,H1_run1,1,
+../../Raw_facs_data/20210205_p1,G,gLgH,b,H3_run1,1,
+../../Raw_facs_data/20210205_p2,A,gLsH,c,H1_run1,1,
+../../Raw_facs_data/20210205_p2,C,gLsH,c,H3_run1,1,
+../../Raw_facs_data/20210212_p1,A,som18,a,H1_run2,2,
+../../Raw_facs_data/20210212_p1,C,som18,a,H3_run2,2,
+../../Raw_facs_data/20210212_p1,E,gLgH,b,H1_run2,2,
+../../Raw_facs_data/20210212_p1,G,gLgH,b,H3_run2,2,
+../../Raw_facs_data/20210212_p2,A,gLsH,c,H1_run2,2,
+../../Raw_facs_data/20210212_p2,C,gLsH,c,H3_run2,2,
